@@ -1,0 +1,75 @@
+{
+  "ppl":  [
+  {
+  "id": 1,
+  "first_name": "Han",
+  "last_name": "Solo",
+  "email": "scruffy@nerfherder.ksl",
+  "gender": "Male",
+  "ip_address": "26.58.193.2"
+}, {
+  "id": 2,
+  "first_name": "Luke",
+  "last_name": "Skywalker",
+  "email": "farmboi@larsfarminc.ttn",
+  "gender": "Male",
+  "ip_address": "229.179.4.212"
+}, {
+  "id": 3,
+  "first_name": "Leia",
+  "last_name": "Organa",
+  "email": "prince$$@alderaan.gov",
+  "gender": "Female",
+  "ip_address": "180.66.162.255"
+}, {
+  "id": 4,
+  "first_name": "Ben",
+  "last_name": "Kenobi",
+  "email": "obiwan@jedimail.com",
+  "gender": "Male",
+  "ip_address": "67.76.188.26"
+}, {
+  "id": 5,
+  "first_name": "Yoda",
+  "last_name": " ",
+  "email": "seagullsgonnacome@pokeyouinthecoconut.com",
+  "gender": "Male",
+  "ip_address": "67.76.188.26"
+}, {
+  "id": 6,
+  "first_name": "Chewbacca",
+  "last_name": "The Wookie",
+  "email": "chewie@mfalcon.com",
+  "gender": "Male",
+  "ip_address": "67.76.188.26"
+}, {
+  "id": 7,
+  "first_name": "Lando",
+  "last_name": "Calrissian",
+  "email": "bigcheese@cloudcity.com",
+  "gender": "Male",
+  "ip_address": "67.76.188.26"
+}, {
+  "id": 8,
+  "first_name": "Darth",
+  "last_name": "Vader",
+  "email": "noooooo@empire.gov",
+  "gender": "Male",
+  "ip_address": "67.76.188.26"
+}, {
+  "id": 9,
+  "first_name": "Emperor",
+  "last_name": "Palpatine",
+  "email": "dearleader@empire.gov",
+  "gender": "Male",
+  "ip_address": "67.76.188.26"
+}, {
+  "id": 19,
+  "first_name": "Boba",
+  "last_name": "Fett",
+  "email": "bountiesandbabes@pslayer.tk",
+  "gender": "Male",
+  "ip_address": "67.76.188.26"
+}
+]
+}
